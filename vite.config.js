@@ -1,3 +1,3 @@
 export default {
-  base: "/hardikjhunjhunwala/",
+  base: "/HardikJhunjhunwala.github.io/",
 };
