@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hardikjhunjhunwala.github.io/threejs-github-pages-deployment/",
+  "homepage": "https://hardikjhunjhunwala.github.io/HardikJhunjhunwala/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
